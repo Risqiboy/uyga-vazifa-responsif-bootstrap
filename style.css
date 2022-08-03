@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+.logo_img{
+    position: relative;
+    left: 120px;
+}
+.box h2{
+    color: red;
+}
+
+.row h3{
+    margin-top: 144px;
+}
+.ul__top{
+    color: silver;
+}
+.wep{
+    position: relative;
+    right:140px;
+}
+
+    
